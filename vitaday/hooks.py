@@ -7,6 +7,11 @@ app_description = "a css theme for vitaday"
 app_email = "contact"
 app_license = "MIT"
 
+app_logo_url = "/assets/vitaday/images/logo_d.png"
+
+app_include_css = "/assets/vitaday/css/vitaday.css"
+web_include_css = "/assets/vitaday/css/vitaday.css"
+
 # Includes in <head>
 # ------------------
 
