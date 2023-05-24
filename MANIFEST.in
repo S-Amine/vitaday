@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include vitaday *.css
+recursive-include vitaday *.csv
+recursive-include vitaday *.html
+recursive-include vitaday *.ico
+recursive-include vitaday *.js
+recursive-include vitaday *.json
+recursive-include vitaday *.md
+recursive-include vitaday *.png
+recursive-include vitaday *.py
+recursive-include vitaday *.svg
+recursive-include vitaday *.txt
+recursive-exclude vitaday *.pyc
